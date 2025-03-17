@@ -32,12 +32,35 @@
 
 [Estructura del proyecto](Estructura-del-proyecto) : 
 
-README.md   # Archivo con documentacion del proyecto
-app.js      # Archivo con la logica de JavaScript
-index.html  # Archivo principal de la aplicacion
-styles.css  # Archivo de estilos
-assets      # Carpeta con Imagenes usadas para la aplicacion
-Img	     		# Carpeta con Imagenes usadas para el archivo de documentacion
+<table>
+  <tr>
+    <td>README.md</td>
+    <td>Archivo con documentacion del proyecto</td>
+  </tr>
+  <tr>
+    <td>app.js</td>
+    <td>Archivo con la logica de JavaScript</td>
+  </tr>
+  <tr>
+    <td>index.html</td>
+    <td>Archivo principal de la aplicacion</td>
+  </tr>
+
+  <tr>
+    <td>styles.css</td>
+    <td>Archivo de estilos</td>
+  </tr>
+
+   <tr>
+    <td>assets</td>
+    <td>Carpeta con Imagenes usadas para la aplicacion</td>
+  </tr>
+
+   <tr>
+    <td>img</td>
+    <td>Carpeta con Imagenes usadas para el archivo de documentacion</td>
+  </tr>
+</table>
 
 [Acceso al Proyecto](Acceso-al-proyecto) :
 
